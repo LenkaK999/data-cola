@@ -1,4 +1,4 @@
-Datum,Diagnóza,Pohlaví,Věk,Skóre_Dotazník_1,Typ,BMI,Váha (kg),Výška (cm),Skóre_Dotazník_2
+Datum,ADHD,pohlavi,vek,Skore_nedostatek_planovani,Typ,BMI,vaha,vyska,Skore_Negativni_Urgence
 2025-12-09 14:35,Ano,Žena,24,39,Kombinovaný,21.88,67,175,40
 2025-12-09 14:35,Ano,Žena,24,39,Kombinovaný,21.88,67,175,40
 2025-12-09 00:46,Ano,Žena,19,37,Kombinovaný,26.71,65,156,32
